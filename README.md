@@ -1,2 +1,2 @@
 # hello-world
-first test ignor
+first test ignore
